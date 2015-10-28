@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:simpleType name="File_or_Dir">
+	<xsd:restriction base="xsd:string">
+		<xsd:pattern value="File|Directory"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="Sync_or_Async">
+	<xsd:restriction base="xsd:string">
+		<xsd:pattern value="SyncDirectoryProcessor|AsyncDirectoryProcessor|"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="Encryptor_Used">
+	<xsd:restriction base="xsd:string">
+		<xsd:pattern value="FileEncryptor|DoubleEncryption|RepeatEncryption [0-9]+"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="Algorithm_Used">
+	<xsd:restriction base="xsd:string">
+		<xsd:pattern value="ShiftUpEncryption|ShiftMultiplyEncryption|XorEncryption"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="Encrypt_or_Decrypt">
+	<xsd:restriction base="xsd:string">
+		<xsd:pattern value="encryption|decryption"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:element name="Input_Data">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="File_or_Dir" type="File_or_Dir" />
+			<xsd:element name="Sync_or_Async" type="Sync_or_Async" />
+			<xsd:element name="Encryptor_Used" type="Encryptor_Used" />
+			<xsd:element name="Algorithm_Used" type="Algorithm_Used" />
+			<xsd:element name="Path_Given" type="xsd:string" />
+			<xsd:element name="Encrypt_or_Decrypt" type="Encrypt_or_Decrypt" />
+			<xsd:element name="Path_to_Key" type="xsd:string" />
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:element>
+</xsd:schema>

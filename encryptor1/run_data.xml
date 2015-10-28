@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Run_Results>
+    <inputPath>C:\Users\user\Desktop</inputPath>
+    <action_Taken>encryption</action_Taken>
+    <encryptor_Used>RepeatEncryption 4</encryptor_Used>
+    <Algorithm_Used>ShiftUpEncryption</Algorithm_Used>
+    <Key_Path>C:\Users\user\Desktop\key.txt</Key_Path>
+    <outPutPath>C:\Users\user\Desktop\encrypted</outPutPath>
+</Run_Results>

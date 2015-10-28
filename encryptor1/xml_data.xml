@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Input_Data>
+    <File_or_Dir>Directory</File_or_Dir>
+    <Sync_or_Async>AsyncDirectoryProcessor</Sync_or_Async>
+    <Encryptor_Used>DoubleEncryption</Encryptor_Used>
+    <Algorithm_Used>ShiftUpEncryption</Algorithm_Used>
+    <Path_Given>C:\Users\user\Desktop</Path_Given>
+    <Encrypt_or_Decrypt>encryption</Encrypt_or_Decrypt>
+	<Path_to_Key></Path_to_Key>
+</Input_Data>

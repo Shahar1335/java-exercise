@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:simpleType name="action_Taken">
+	<xs:restriction base="xs:string">
+		<xs:pattern value="encryption|decryption"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="encryptor_Used">
+	<xs:restriction base="xs:string">
+		<xs:pattern value="FileEncryptor|DoubleEncryption|RepeatEncryption [0-9]+"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="Algorithm_Used">
+	<xs:restriction base="xs:string">
+		<xs:pattern value="ShiftUpEncryption|ShiftMultiplyEncryption|XorEncryption"/>
+	</xs:restriction>
+</xs:simpleType>
+
+<xs:element name="Run_Results">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="inputPath" type="xs:string" />
+			<xs:element name="action_Taken" type="action_Taken" />
+			<xs:element name="encryptor_Used" type="encryptor_Used" />
+			<xs:element name="Algorithm_Used" type="Algorithm_Used" />
+			<xs:element name="Key_Path" type="xs:string" />
+			<xs:element name="outPutPath" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>

@@ -1,0 +1,1166 @@
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 5948949 milliseconds. The encrypted file is located in file C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-26 20:09:21.221
+1670080 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 7619068 milliseconds. The encrypted file is located in file C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-26 20:37:11.414
+1670080 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm shiftup took 7619095 milliseconds. The encrypted file is located in file C:\Users\user\Desktop\encrypted . The time stamp is 2015-09-26 20:37:11.414
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm shiftup took 5066935 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-09-26 22:40:31.393
+0    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm shiftup took 82 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-09-27 10:34:30.293
+4    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 197 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-27 10:34:30.356
+4    [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text6.txt with algorithm shiftup took 168 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text6.txt . The time stamp is 2015-09-27 10:34:30.357
+7    [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text5.txt with algorithm shiftup took 193 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text5.txt . The time stamp is 2015-09-27 10:34:30.36
+13   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm shiftup took 201 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-09-27 10:34:30.366
+24   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 217 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-27 10:34:30.377
+25   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm shiftup took 225 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-09-27 10:34:30.378
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 85 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-27 10:35:14.453
+4    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 2 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-27 10:35:14.471
+8    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm shiftup took 3 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-09-27 10:35:14.475
+11   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm shiftup took 3 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-09-27 10:35:14.478
+13   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text5.txt with algorithm shiftup took 1 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text5.txt . The time stamp is 2015-09-27 10:35:14.48
+15   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text6.txt with algorithm shiftup took 2 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text6.txt . The time stamp is 2015-09-27 10:35:14.482
+16   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm shiftup took 119 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-09-27 10:35:14.483
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 94 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-27 10:35:43.133
+3    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 2 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-27 10:35:43.151
+5    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm shiftup took 2 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-09-27 10:35:43.153
+10   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm shiftup took 4 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-09-27 10:35:43.158
+14   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text5.txt with algorithm shiftup took 4 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text5.txt . The time stamp is 2015-09-27 10:35:43.162
+17   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text6.txt with algorithm shiftup took 3 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text6.txt . The time stamp is 2015-09-27 10:35:43.165
+17   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm shiftup took 129 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-09-27 10:35:43.165
+1    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 73 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-27 10:36:01.138
+22   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 233 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-27 10:36:01.287
+22   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm shiftup took 192 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-09-27 10:36:01.288
+25   [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text6.txt with algorithm shiftup took 236 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text6.txt . The time stamp is 2015-09-27 10:36:01.291
+26   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm shiftup took 238 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-09-27 10:36:01.291
+26   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm shiftup took 247 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-09-27 10:36:01.292
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm shiftup took 983444 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-09-27 10:55:47.096
+13751 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text5.txt with algorithm shiftup took 997706 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text5.txt . The time stamp is 2015-09-27 10:56:01.368
+574253 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm shiftup took 1558150 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-09-27 11:05:21.869
+613804 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm shiftup took 1597713 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-09-27 11:06:01.421
+616763 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text6.txt with algorithm shiftup took 1600694 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text6.txt . The time stamp is 2015-09-27 11:06:04.38
+0    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1499 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:27:19.672
+10   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1648 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:27:19.771
+11   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1658 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:27:19.772
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 434 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:30:24.439
+363  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:30:24.81
+840  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 477 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:30:25.287
+1228 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 388 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:30:25.675
+1228 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1675 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:30:25.675
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 430 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:33:34.729
+362  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:33:35.1
+811  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 449 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:33:35.549
+1186 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 375 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:33:35.924
+1186 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1630 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:33:35.924
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 422 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:37:00.709
+363  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 362 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:37:01.081
+823  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 460 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:37:01.541
+1201 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 378 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:37:01.919
+1201 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1636 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:37:01.919
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 448 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:38:58.131
+362  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:38:58.502
+798  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 435 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:38:58.938
+1174 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 377 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:38:59.314
+1175 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1636 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:38:59.315
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 437 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:47:49.794
+361  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 360 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:47:50.164
+821  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 460 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:47:50.624
+1199 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 377 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:47:51.002
+1199 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1651 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:47:51.002
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 425 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:50:59.808
+364  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 362 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:51:00.181
+811  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 447 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:51:00.628
+1180 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 368 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:51:00.997
+1180 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1618 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:51:00.997
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 434 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:51:40.757
+362  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:51:41.128
+829  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 467 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:51:41.595
+1200 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 370 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:51:41.966
+1200 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1648 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:51:41.966
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 514 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:54:51.355
+467  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 465 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:54:51.831
+973  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 506 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:54:52.338
+1437 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 463 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:54:52.802
+1437 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1963 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:54:52.802
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 452 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 17:57:21.635
+378  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 377 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 17:57:22.022
+847  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 469 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 17:57:22.491
+1237 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 390 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 17:57:22.881
+1237 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1703 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 17:57:22.881
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 449 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:00:49.717
+395  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 394 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:00:50.121
+857  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 462 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:00:50.583
+1252 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 395 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:00:50.978
+1252 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1715 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:00:50.978
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 446 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:03:32.746
+362  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:03:33.116
+821  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 458 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:03:33.574
+1195 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 374 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:03:33.949
+1195 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1655 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:03:33.949
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 435 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:04:41.896
+362  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:04:42.266
+820  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 458 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:04:42.724
+1195 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 375 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:04:43.099
+1195 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1643 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:04:43.099
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 503 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:38:40.9
+391  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 387 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:38:41.312
+855  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 463 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:38:41.775
+1233 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 378 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:38:42.154
+1233 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1763 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:38:42.154
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 60 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-01 18:43:03.699
+378  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 377 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:43:04.086
+739  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 361 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:43:04.447
+1213 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 474 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:43:04.921
+1617 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 404 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:43:05.325
+1618 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1694 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:43:05.325
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for key.txt with algorithm ShiftUpEncryption took 205 milliseconds. The decrypted file is located in key.txt . The time stamp is 2015-10-01 18:44:22.683
+1185 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1407 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 18:44:23.897
+1242 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1481 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:44:23.954
+1292 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1552 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 18:44:24.004
+1297 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1522 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:44:24.009
+1298 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1567 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:44:24.01
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 77 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-01 18:50:09.388
+1302 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1408 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:50:10.72
+1331 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1438 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:50:10.749
+1338 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1445 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:50:10.756
+1382 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1479 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:50:10.8
+1382 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:50:10.8
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1451 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:51:55.857
+5    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1480 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:51:55.887
+24   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:51:55.906
+32   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1501 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:51:55.914
+33   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1512 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:51:55.915
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1338 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 18:52:47.159
+1    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1342 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 18:52:47.17
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1350 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:52:47.17
+2    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1339 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:52:47.171
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1355 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:52:47.171
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1279 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:54:15.594
+2    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1292 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 18:54:15.607
+2    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1281 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:54:15.607
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1296 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:54:15.607
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1286 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:54:54.735
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1298 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:54:54.747
+2    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1295 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 18:54:54.748
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1302 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:54:54.748
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1327 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 18:55:16.119
+44   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1395 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 18:55:16.186
+70   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1421 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 18:55:16.211
+84   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1436 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 18:55:16.226
+85   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1440 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 18:55:16.227
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1375 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:56:32.663
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1394 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:56:32.675
+1    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1383 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 18:56:32.675
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1397 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:56:32.676
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1340 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 18:58:53.225
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1363 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 18:58:53.237
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1367 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 18:58:53.238
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1375 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 19:00:54.993
+1    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1372 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 19:00:55.003
+1    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1372 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 19:00:55.003
+1    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1372 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 19:00:55.003
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1389 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 19:00:55.004
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1334 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 19:01:42.194
+1    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1332 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 19:01:42.204
+1    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1343 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 19:01:42.204
+1    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1345 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 19:01:42.204
+1    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1348 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 19:01:42.204
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1339 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-01 19:07:44.095
+2    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1349 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-01 19:07:44.107
+2    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1337 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-01 19:07:44.107
+2    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1336 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-01 19:07:44.107
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1355 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-01 19:07:44.107
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1334 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 19:08:29.891
+5    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1364 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 19:08:29.922
+43   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1402 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 19:08:29.96
+78   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1437 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 19:08:29.995
+79   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1442 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 19:08:29.996
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 502 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-01 19:08:49.528
+390  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 389 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-01 19:08:49.926
+769  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 379 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-01 19:08:50.305
+1134 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 364 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-01 19:08:50.67
+1135 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1648 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-01 19:08:50.671
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 453 milliseconds. The encrypted file is located in C:\Users\user\Desktop\text1_encrypted.txt . The time stamp is 2015-10-01 19:11:55.744
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 439 milliseconds. The encrypted file is located in text1_encrypted.txt . The time stamp is 2015-10-02 11:20:30.119
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1_encrypted.txt with algorithm XorEncryption took 485 milliseconds. The decrypted file is located in text1_encrypted_decrypted.txt . The time stamp is 2015-10-02 11:21:36.91
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1_encrypted.txt with algorithm XorEncryption took 400 milliseconds. The decrypted file is located in text1_encrypted_decrypted.txt . The time stamp is 2015-10-02 11:22:15.875
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1281 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-02 11:30:16.34
+41   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1349 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-02 11:30:16.406
+85   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1385 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-02 11:30:16.451
+114  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1415 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-02 11:30:16.48
+115  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1425 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-02 11:30:16.481
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 485 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-02 11:30:49.81
+467  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 464 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-02 11:30:50.344
+920  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 453 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-02 11:30:50.797
+1322 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 401 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-02 11:30:51.199
+1323 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1876 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-02 11:30:51.2
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm XorEncryption took 1482 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-02 11:37:23.213
+25   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm XorEncryption took 1526 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-02 11:37:23.257
+331  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm XorEncryption took 1818 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-02 11:37:23.563
+404  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm XorEncryption took 1904 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-02 11:37:23.636
+404  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm XorEncryption took 1908 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-02 11:37:23.636
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm XorEncryption took 525 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-02 11:37:58.378
+442  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm XorEncryption took 440 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-02 11:37:58.83
+906  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm XorEncryption took 463 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-02 11:37:59.294
+1406 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm XorEncryption took 499 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-02 11:37:59.794
+1406 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm XorEncryption took 1943 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-02 11:37:59.794
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm XorEncryption took 17590 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-02 11:39:32.684
+18885 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm XorEncryption took 18882 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-02 11:39:51.581
+37353 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm XorEncryption took 18467 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-02 11:40:10.049
+56096 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm XorEncryption took 18743 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-02 11:40:28.792
+56096 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm XorEncryption took 73699 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-02 11:40:28.792
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm XorEncryption took 58559 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-02 11:42:01.723
+28078 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm XorEncryption took 86739 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-02 11:42:29.904
+28996 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm XorEncryption took 87658 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-02 11:42:30.822
+29972 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm XorEncryption took 88614 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-02 11:42:31.798
+29973 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm XorEncryption took 88638 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-02 11:42:31.799
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1247 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-02 13:11:56.188
+805  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 2192 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-02 13:11:57.132
+838  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 2214 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-02 13:11:57.165
+1096 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 2472 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-02 13:11:57.423
+1097 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 2488 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-02 13:11:57.424
+1    [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-03 21:00:08.022
+The host name is user-PC
+The thread ID is 10
+The process ID is 2888
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.XorEncryption.compute_char(XorEncryption.java:12)
+	at encryptor1.KeyDouble.change_char(KeyDouble.java:29)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.DoubleEncryption.encryption(DoubleEncryption.java:51)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-03 21:00:08.022
+The host name is user-PC
+The thread ID is 9
+The process ID is 2888
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.XorEncryption.compute_char(XorEncryption.java:12)
+	at encryptor1.KeyDouble.change_char(KeyDouble.java:29)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.DoubleEncryption.encryption(DoubleEncryption.java:51)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-0] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-03 21:00:08.022
+The host name is user-PC
+The thread ID is 8
+The process ID is 2888
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.XorEncryption.compute_char(XorEncryption.java:12)
+	at encryptor1.KeyDouble.change_char(KeyDouble.java:29)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.DoubleEncryption.encryption(DoubleEncryption.java:51)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-03 21:00:08.022
+The host name is user-PC
+The thread ID is 11
+The process ID is 2888
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.XorEncryption.compute_char(XorEncryption.java:12)
+	at encryptor1.KeyDouble.change_char(KeyDouble.java:29)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.DoubleEncryption.encryption(DoubleEncryption.java:51)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1437 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-03 21:00:26.381
+152  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1619 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-03 21:00:26.561
+228  [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1695 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-03 21:00:26.637
+266  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1725 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-03 21:00:26.675
+268  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1738 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-03 21:00:26.677
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm XorEncryption took 1424 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-03 21:01:14.763
+2    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm XorEncryption took 1429 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-03 21:01:14.78
+2    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm XorEncryption took 1427 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-03 21:01:14.78
+2    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm XorEncryption took 1443 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-03 21:01:14.78
+2    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm XorEncryption took 1447 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-03 21:01:14.78
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1302 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-03 21:22:34.918
+237  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1572 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-03 21:22:35.188
+284  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1611 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-03 21:22:35.235
+300  [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1636 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-03 21:22:35.251
+301  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1640 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-03 21:22:35.252
+0    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1424 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:06:19.69
+89   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1582 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:06:19.869
+282  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1775 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:06:20.062
+284  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1778 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:06:20.064
+285  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1802 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:06:20.065
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1471 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:07:33.286
+200  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1714 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:07:33.527
+237  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1750 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:07:33.564
+254  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1767 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:07:33.581
+255  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1771 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:07:33.582
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1572 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:08:08.472
+60   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1659 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:08:08.559
+89   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1689 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:08:08.588
+98   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1697 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:08:08.597
+99   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1702 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:08:08.598
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1415 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:09:50.674
+164  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1604 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:09:50.856
+186  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1627 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:09:50.878
+223  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1656 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:09:50.915
+224  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1668 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:09:50.916
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1474 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:35:18.41
+112  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1610 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:35:18.546
+154  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1650 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:35:18.588
+180  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1678 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:35:18.614
+181  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1682 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:35:18.615
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1550 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 00:36:04.876
+4    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1587 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 00:36:04.906
+18   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1601 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 00:36:04.92
+40   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1626 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 00:36:04.942
+41   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1630 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 00:36:04.943
+0    [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1567 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 01:12:49.514
+18   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1613 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 01:12:49.56
+40   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1642 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 01:12:49.582
+80   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1682 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 01:12:49.622
+81   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1686 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 01:12:49.623
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm XorEncryption took 1642 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 01:42:08.839
+25   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm XorEncryption took 1720 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 01:42:08.917
+67   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm XorEncryption took 1748 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 01:42:08.959
+75   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm XorEncryption took 1756 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 01:42:08.967
+76   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm XorEncryption took 1773 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 01:42:08.968
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1363 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-04 11:05:21.06
+23   [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1489 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-04 11:05:21.185
+27   [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1493 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-04 11:05:21.189
+33   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1497 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-04 11:05:21.195
+34   [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1502 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-04 11:05:21.196
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 500 milliseconds. The encrypted file is located in t_encrypted.txt . The time stamp is 2015-10-08 20:53:07.391
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 444 milliseconds. The encrypted file is located in t_encrypted.txt . The time stamp is 2015-10-08 20:53:21.725
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 429 milliseconds. The encrypted file is located in t_encrypted.txt . The time stamp is 2015-10-08 23:03:42.101
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 1194 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-08 23:15:05.612
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 413 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-08 23:15:46.942
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 427 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-08 23:43:43.115
+1    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 515 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-08 23:55:37.711
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 422 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-09 00:10:53.251
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 433 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-09 00:16:26.664
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for t.txt with algorithm ShiftUpEncryption took 421 milliseconds. The encrypted file is located in C:\Users\user\Desktop\t_encrypted.txt . The time stamp is 2015-10-09 00:31:47.052
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1390 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 01:08:21.79
+120  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1535 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 01:08:21.936
+138  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1552 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 01:08:21.954
+150  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1568 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 01:08:21.966
+171  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1590 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 01:08:21.987
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 98 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 01:25:07.843
+1302 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1412 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 01:25:09.18
+1345 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1454 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 01:25:09.223
+1352 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1462 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 01:25:09.23
+1385 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 01:25:09.263
+1386 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1521 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 01:25:09.264
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 105 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 01:31:50.221
+1262 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1405 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 01:31:51.538
+1313 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1456 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 01:31:51.589
+1323 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1467 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 01:31:51.599
+1349 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1493 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 01:31:51.625
+1350 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1512 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 01:31:51.626
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 99 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 01:44:30.531
+1198 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1318 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 01:44:31.755
+1267 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1385 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 01:44:31.824
+1302 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1420 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 01:44:31.859
+1308 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1428 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 01:44:31.864
+1308 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1436 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 01:44:31.865
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 53 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 11:19:04.744
+3324 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 3402 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 11:19:08.094
+3502 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 3581 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 11:19:08.272
+3535 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 3613 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 11:19:08.305
+3592 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 3671 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 11:19:08.362
+3593 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 3675 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 11:19:08.363
+1    [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:02.658
+The host name is user-PC
+The thread ID is 13
+The process ID is 1792
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:02.658
+The host name is user-PC
+The thread ID is 10
+The process ID is 1792
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:02.658
+The host name is user-PC
+The thread ID is 14
+The process ID is 1792
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:02.659
+The host name is user-PC
+The thread ID is 12
+The process ID is 1792
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:02.658
+The host name is user-PC
+The thread ID is 11
+The process ID is 1792
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:48.979
+The host name is user-PC
+The thread ID is 10
+The process ID is 5456
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+69   [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:49.073
+The host name is user-PC
+The thread ID is 14
+The process ID is 5456
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+115  [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:49.118
+The host name is user-PC
+The thread ID is 13
+The process ID is 5456
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+133  [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:49.137
+The host name is user-PC
+The thread ID is 12
+The process ID is 5456
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+141  [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:40:49.145
+The host name is user-PC
+The thread ID is 11
+The process ID is 5456
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 55 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 12:41:11.435
+1257 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1376 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 12:41:12.783
+1747 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1860 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 12:41:13.273
+1980 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 2099 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 12:41:13.506
+2020 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 2135 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 12:41:13.546
+2021 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 2170 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 12:41:13.547
+1    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:28.63
+The host name is user-PC
+The thread ID is 10
+The process ID is 4896
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+52   [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:28.775
+The host name is user-PC
+The thread ID is 14
+The process ID is 4896
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+18   [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:28.741
+The host name is user-PC
+The thread ID is 13
+The process ID is 4896
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+90   [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:28.813
+The host name is user-PC
+The thread ID is 11
+The process ID is 4896
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+96   [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:28.819
+The host name is user-PC
+The thread ID is 12
+The process ID is 4896
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:45.964
+The host name is user-PC
+The thread ID is 10
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+28   [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:46.058
+The host name is user-PC
+The thread ID is 11
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+48   [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:46.078
+The host name is user-PC
+The thread ID is 14
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+149  [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:46.179
+The host name is user-PC
+The thread ID is 13
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+190  [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:41:46.22
+The host name is user-PC
+The thread ID is 12
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+1    [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:42:18.754
+The host name is user-PC
+The thread ID is 14
+The process ID is 4524
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+3    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:42:18.749
+The host name is user-PC
+The thread ID is 10
+The process ID is 4524
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+3    [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:42:18.753
+The host name is user-PC
+The thread ID is 13
+The process ID is 4524
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+49   [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:42:18.81
+The host name is user-PC
+The thread ID is 12
+The process ID is 4524
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+53   [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:42:18.814
+The host name is user-PC
+The thread ID is 11
+The process ID is 4524
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+2    [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:43:20.439
+The host name is user-PC
+The thread ID is 13
+The process ID is 5788
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+7    [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:43:20.521
+The host name is user-PC
+The thread ID is 12
+The process ID is 5788
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+3    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:43:20.439
+The host name is user-PC
+The thread ID is 10
+The process ID is 5788
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+2    [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:43:20.599
+The host name is user-PC
+The thread ID is 14
+The process ID is 5788
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+24   [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:43:20.621
+The host name is user-PC
+The thread ID is 11
+The process ID is 5788
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+2    [Thread-1] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:44:07.839
+The host name is user-PC
+The thread ID is 10
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+6    [Thread-4] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:44:07.839
+The host name is user-PC
+The thread ID is 13
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+26   [Thread-2] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:44:07.889
+The host name is user-PC
+The thread ID is 11
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+28   [Thread-5] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:44:07.891
+The host name is user-PC
+The thread ID is 14
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+48   [Thread-3] ERROR encryptor1.EncryptionLog4JLogger  - The key is too strong for this algorithm.
+The time stamp is 2015-10-09 12:44:07.911
+The host name is user-PC
+The thread ID is 12
+The process ID is 5460
+encryptor1.InvalidEncryptionKeyException: The key is too strong for this algorithm.
+	at encryptor1.EncryptionAlgorithm.check_strength(EncryptionAlgorithm.java:27)
+	at encryptor1.ShiftUpEncryption.compute_char(ShiftUpEncryption.java:15)
+	at encryptor1.KeySingle.change_char(KeySingle.java:16)
+	at encryptor1.EncryptionAlgorithm.enc_dec_alg(EncryptionAlgorithm.java:17)
+	at encryptor1.RepeatEncryption.encryption(RepeatEncryption.java:83)
+	at encryptor1.ExecThread.run(ExecThread.java:28)
+	at java.lang.Thread.run(Unknown Source)
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 63 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 12:44:48.143
+1549 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1601 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 12:44:49.712
+1678 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1727 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 12:44:49.841
+2249 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 2291 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 12:44:50.412
+2480 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 2552 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 12:44:50.643
+2481 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 2568 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 12:44:50.644
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 125 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-09 12:46:16.677
+1509 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1695 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-09 12:46:18.248
+1553 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1697 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-09 12:46:18.292
+2157 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 2343 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-09 12:46:18.896
+2404 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 2591 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-09 12:46:19.143
+2405 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 2621 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-09 12:46:19.144
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 4398 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-11 13:02:48.268
+19   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 4578 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-11 13:02:48.447
+28   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 4586 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-11 13:02:48.456
+118  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 4677 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-11 13:02:48.546
+119  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 4683 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:02:48.547
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 57 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:03:32.946
+1418 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1551 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:03:34.438
+1460 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1595 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:03:34.481
+1470 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1603 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:03:34.491
+1486 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1620 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:03:34.506
+1486 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1624 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:03:34.507
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 56 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:07:18.95
+1315 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1407 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:07:20.301
+1331 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1424 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:07:20.318
+1354 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1447 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:07:20.341
+1386 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1478 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:07:20.373
+1386 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1482 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:07:20.373
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 54 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:20:23.351
+1294 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1393 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:20:24.69
+1316 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1416 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:20:24.712
+1385 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1483 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:20:24.78
+1407 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1506 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:20:24.803
+1408 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1510 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:20:24.804
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 82 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:23:11.356
+1162 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1395 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:23:12.636
+1312 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1540 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:23:12.785
+1316 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1545 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:23:12.79
+1365 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1615 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:23:12.839
+1366 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1621 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:23:12.84
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 66 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:24:02.785
+1232 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1395 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:24:04.115
+1275 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1439 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:24:04.158
+1314 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1477 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:24:04.197
+1349 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1513 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:24:04.232
+1350 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1517 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:24:04.233
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 63 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:27:01.796
+1306 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1383 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:27:03.166
+1308 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1384 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:27:03.168
+1358 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1482 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:27:03.218
+1363 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1487 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:27:03.223
+1364 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:27:03.224
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 53 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 13:28:21.771
+1221 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1327 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 13:28:23.04
+1353 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1457 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 13:28:23.171
+1389 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1494 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 13:28:23.208
+1392 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1497 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 13:28:23.211
+1393 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1502 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 13:28:23.212
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 63 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 16:47:38.679
+1383 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 16:47:40.157
+1406 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1552 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 16:47:40.18
+1410 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1556 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 16:47:40.183
+1461 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1573 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 16:47:40.235
+1462 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1622 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 16:47:40.236
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 61 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 16:48:58.596
+1315 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1412 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 16:48:59.945
+1323 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1419 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 16:48:59.953
+1359 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1456 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 16:48:59.989
+1370 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1468 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 16:49:00.0
+1371 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1471 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 16:49:00.001
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 62 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 16:49:17.568
+1298 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1397 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 16:49:18.903
+1359 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1458 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 16:49:18.964
+1378 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1476 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 16:49:18.983
+1387 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1486 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 16:49:18.992
+1388 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1489 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 16:49:18.993
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for key.txt with algorithm ShiftUpEncryption took 189 milliseconds. The decrypted file is located in key.txt . The time stamp is 2015-10-11 16:52:50.347
+1131 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1347 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 16:52:51.503
+1146 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1337 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 16:52:51.518
+1152 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1344 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 16:52:51.524
+1167 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1358 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 16:52:51.539
+1167 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1387 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 16:52:51.539
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for key.txt with algorithm ShiftUpEncryption took 306 milliseconds. The decrypted file is located in key.txt . The time stamp is 2015-10-11 16:55:56.718
+1009 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1337 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 16:55:57.75
+1073 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1401 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 16:55:57.814
+1105 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1424 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 16:55:57.846
+1127 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1439 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 16:55:57.868
+1127 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1458 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 16:55:57.868
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for key.txt with algorithm ShiftUpEncryption took 169 milliseconds. The decrypted file is located in key.txt . The time stamp is 2015-10-11 16:57:18.933
+895  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1089 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 16:57:19.851
+1020 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1190 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 16:57:19.977
+1043 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1210 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 16:57:20.0
+1067 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1260 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 16:57:20.024
+1067 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1263 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 16:57:20.024
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 62 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\key.txt . The time stamp is 2015-10-11 17:18:39.302
+1198 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1269 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text4.txt . The time stamp is 2015-10-11 17:18:40.529
+1269 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1340 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text3.txt . The time stamp is 2015-10-11 17:18:40.6
+1285 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1358 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text1.txt . The time stamp is 2015-10-11 17:18:40.616
+1313 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1385 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted\text2.txt . The time stamp is 2015-10-11 17:18:40.644
+1313 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1406 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:18:40.644
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 89 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:21:09.345
+1230 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1324 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:21:10.615
+1256 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1374 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:21:10.641
+1283 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1376 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:21:10.668
+1308 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1426 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:21:10.693
+1309 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1442 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:21:10.694
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 58 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:21:35.362
+1226 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1317 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:21:36.621
+1299 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1390 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:21:36.694
+1319 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1409 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:21:36.714
+1343 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1434 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:21:36.738
+1344 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1437 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:21:36.739
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:24:33.359
+1248 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1332 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:24:34.637
+1277 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1361 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:24:34.666
+1289 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1374 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:24:34.678
+1321 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1406 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:24:34.71
+1322 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1410 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:24:34.711
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 57 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:27:52.943
+1208 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1308 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:27:54.195
+1301 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1401 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:27:54.288
+1354 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1454 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:27:54.341
+1370 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1470 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:27:54.357
+1370 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1473 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:27:54.357
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 56 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:28:41.216
+1231 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1319 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:28:42.476
+1286 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1373 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:28:42.531
+1318 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1405 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:28:42.563
+1341 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1428 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:28:42.586
+1342 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1433 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:28:42.587
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:57:01.342
+1309 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1397 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:57:02.685
+1318 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1405 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:57:02.694
+1386 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1473 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:57:02.762
+1386 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1475 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:57:02.762
+1387 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1478 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:57:02.763
+1    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 58 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:57:14.52
+1289 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1382 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:57:15.841
+1318 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1412 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:57:15.87
+1335 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1429 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:57:15.887
+1387 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1481 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:57:15.939
+1388 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1485 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:57:15.94
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 65 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 17:59:25.163
+1344 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1442 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 17:59:26.539
+1419 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1516 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 17:59:26.614
+1436 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1533 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 17:59:26.631
+1474 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1571 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 17:59:26.669
+1475 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1576 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 17:59:26.67
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 55 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:04:22.517
+1287 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1384 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:04:23.836
+1352 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1447 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:04:23.901
+1363 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1459 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:04:23.912
+1377 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1473 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:04:23.926
+1378 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1477 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:04:23.927
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 62 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:10:10.394
+1281 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1381 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:10:11.714
+1346 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1446 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:10:11.779
+1349 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1450 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:10:11.782
+1378 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1478 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:10:11.811
+1379 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1483 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:10:11.812
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 57 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:12:31.267
+1258 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1371 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:12:32.577
+1293 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1406 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:12:32.612
+1365 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1478 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:12:32.684
+1388 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1501 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:12:32.707
+1389 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1506 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:12:32.708
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 49 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:20:03.643
+1204 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1284 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:20:04.869
+1295 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1337 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:20:04.96
+1300 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1340 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:20:04.965
+1343 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1422 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:20:05.008
+1344 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1427 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:20:05.009
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 53 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:20:33.11
+1163 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1260 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:20:34.314
+1253 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1350 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:20:34.404
+1277 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1374 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:20:34.428
+1309 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1405 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:20:34.46
+1309 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1409 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:20:34.46
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 56 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:31:12.153
+1279 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1366 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:31:13.457
+1281 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1368 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:31:13.459
+1288 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1376 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:31:13.466
+1317 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1404 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:31:13.495
+1317 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1412 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:31:13.495
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 59 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:32:45.791
+1134 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1343 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:32:47.074
+1285 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1494 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:32:47.225
+1354 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1563 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:32:47.294
+1360 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1569 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:32:47.3
+1361 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1573 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:32:47.301
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 68 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:33:12.707
+1280 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1398 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:33:14.033
+1321 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1438 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:33:14.074
+1323 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1441 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:33:14.076
+1372 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1491 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:33:14.125
+1373 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1496 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:33:14.126
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 62 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:34:02.661
+1324 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1430 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:34:04.026
+1389 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:34:04.091
+1390 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1495 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:34:04.092
+1420 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1526 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:34:04.121
+1421 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1530 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:34:04.123
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 59 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:36:25.706
+1329 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1427 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:36:27.071
+1360 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1458 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:36:27.102
+1392 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1483 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:36:27.134
+1416 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1514 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:36:27.158
+1416 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1518 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:36:27.158
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 63 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 18:36:44.749
+1356 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1463 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 18:36:46.149
+1384 [Thread-5] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1490 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 18:36:46.177
+1417 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1523 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 18:36:46.21
+1438 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1544 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 18:36:46.231
+1439 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1547 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 18:36:46.232
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 60 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 19:22:11.161
+1203 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1292 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 19:22:12.393
+1280 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1369 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 19:22:12.47
+1287 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1375 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 19:22:12.476
+1312 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1401 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 19:22:12.502
+1313 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1405 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 19:22:12.503
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 59 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-11 19:23:09.064
+1203 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 1291 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 19:23:10.296
+1264 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 1350 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 19:23:10.356
+1294 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 1382 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 19:23:10.387
+1311 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 1400 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 19:23:10.404
+1312 [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 1404 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 19:23:10.405
+0    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for key.txt with algorithm ShiftUpEncryption took 57 milliseconds. The decrypted file is located in key.txt . The time stamp is 2015-10-11 19:24:09.743
+1073 [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 1164 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 19:24:10.847
+1096 [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 1188 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 19:24:10.87
+1149 [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 1234 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 19:24:10.923
+1163 [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 1254 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 19:24:10.937
+1163 [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 1257 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 19:24:10.937
+1    [main] FATAL encryptor1.EncryptionLog4JLogger  - The file doesn't contain the right amount of keys.
+The time stamp is 2015-10-11 19:39:07.636
+The host name is user-PC
+The thread ID is 1
+The process ID is 3004
+encryptor1.InvalidEncryptionKeyException: The file doesn't contain the right amount of keys.
+	at encryptor1.FileOperations.readKeys(FileOperations.java:58)
+	at encryptor1.RepeatEncryption.readKey(RepeatEncryption.java:126)
+	at encryptor1.AsyncDirectoryProcessor.operate(AsyncDirectoryProcessor.java:40)
+	at encryptor1.DirectoryProcessor.decryption(DirectoryProcessor.java:32)
+	at encryptor1.UserControl.XML(UserControl.java:124)
+	at encryptor1.UserControl.main(UserControl.java:14)
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 3731 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-11 19:40:22.374
+5    [Thread-0] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 3761 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-11 19:40:22.402
+126  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 3873 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-11 19:40:22.523
+167  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 3923 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-11 19:40:22.564
+232  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 3992 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-11 19:40:22.629
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 3708 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 19:41:36.061
+4    [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 3719 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 19:41:36.088
+9    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 3742 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 19:41:36.094
+31   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 3749 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 19:41:36.116
+31   [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 3767 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 19:41:36.116
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 3513 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-11 19:43:19.536
+126  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 3648 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-11 19:43:19.683
+156  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 3692 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-11 19:43:19.714
+220  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 3756 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-11 19:43:19.778
+221  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 3760 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-11 19:43:19.779
+0    [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 4725 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-12 10:02:07.944
+85   [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 4830 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-12 10:02:08.058
+98   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 4847 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-12 10:02:08.071
+175  [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 4889 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-12 10:02:08.148
+176  [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 4934 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-12 10:02:08.149
+0    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 4503 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-12 10:03:15.196
+119  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 4638 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-12 10:03:15.341
+218  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 4734 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-12 10:03:15.44
+278  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 4793 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-12 10:03:15.5
+278  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 4816 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-12 10:03:15.5
+1    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 4768 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-13 15:21:41.839
+17   [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 4811 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-13 15:21:41.88
+61   [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 4854 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-13 15:21:41.925
+118  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 4911 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-13 15:21:41.982
+118  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 4915 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-13 15:21:41.982
+1    [Thread-2] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 4911 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-13 15:23:08.075
+324  [Thread-1] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 5298 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-13 15:23:08.461
+409  [Thread-4] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 5382 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-13 15:23:08.546
+442  [Thread-3] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 5415 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-13 15:23:08.579
+442  [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 5418 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-13 15:23:08.579
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 52 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:29:38.735
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 49 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:32:42.28
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:34:09.892
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:34:21.635
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:35:50.035
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 53 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:36:27.264
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 49 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:38:37.214
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:40:29.96
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:41:39.202
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:42:36.482
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 52 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:43:20.757
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 54 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:44:38.367
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test_ansi.txt with algorithm ShiftUpEncryption took 54 milliseconds. The encrypted file is located in text_test_ansi_encrypted.txt . The time stamp is 2015-10-14 11:47:43.118
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:49:07.388
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:49:45.39
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 52 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:50:31.554
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 52 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:51:03.819
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:51:27.217
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test_ansi.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_ansi_encrypted.txt . The time stamp is 2015-10-14 11:53:11.365
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 56 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:53:28.619
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 58 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:57:49.082
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 61 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:58:27.557
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 11:59:11.888
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:05:50.304
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 41 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:24:06.789
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 123 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:24:23.92
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm XorEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:24:59.652
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm XorEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:26:02.739
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 45 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:26:43.739
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 54 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:28:04.234
+1    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 53 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:28:39.064
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 49 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:29:18.816
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 51 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:30:07.454
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The decryption for text_test_encrypted.txt with algorithm ShiftMultiplyEncryption took 44 milliseconds. The decrypted file is located in text_test_encrypted_decrypted.txt . The time stamp is 2015-10-14 12:31:05.621
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 50 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:33:18.909
+0    [main] INFO  encryptor1.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 49 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 12:33:33.947
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 59 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:02:44.892
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 1113 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:04:09.165
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 1090 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:04:09.152
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftMultiplyEncryption took 64 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:04:20.549
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm XorEncryption took 936 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:12:02.627
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text_test.txt with algorithm ShiftUpEncryption took 272 milliseconds. The encrypted file is located in text_test_encrypted.txt . The time stamp is 2015-10-14 13:12:44.948
+0    [Thread-2] INFO  Logging.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 4969 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-14 13:14:42.577
+239  [Thread-4] INFO  Logging.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 5400 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-14 13:14:43.008
+352  [Thread-1] INFO  Logging.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 5513 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-14 13:14:43.121
+358  [Thread-3] INFO  Logging.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 5519 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-14 13:14:43.127
+359  [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 5538 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-14 13:14:43.128
+0    [Thread-3] INFO  Logging.EncryptionLog4JLogger  - The decryption for text3.txt with algorithm ShiftUpEncryption took 5289 milliseconds. The decrypted file is located in text3.txt . The time stamp is 2015-10-14 13:16:27.919
+3    [Thread-2] INFO  Logging.EncryptionLog4JLogger  - The decryption for text2.txt with algorithm ShiftUpEncryption took 5517 milliseconds. The decrypted file is located in text2.txt . The time stamp is 2015-10-14 13:16:28.139
+18   [Thread-4] INFO  Logging.EncryptionLog4JLogger  - The decryption for text4.txt with algorithm ShiftUpEncryption took 5525 milliseconds. The decrypted file is located in text4.txt . The time stamp is 2015-10-14 13:16:28.154
+23   [Thread-1] INFO  Logging.EncryptionLog4JLogger  - The decryption for text1.txt with algorithm ShiftUpEncryption took 5537 milliseconds. The decrypted file is located in text1.txt . The time stamp is 2015-10-14 13:16:28.159
+24   [main] INFO  Logging.EncryptionLog4JLogger  - The decryption for C:\Users\user\Desktop\encrypted with algorithm ShiftUpEncryption took 5623 milliseconds. The decrypted file is located in C:\Users\user\Desktop\encrypted\decrypted . The time stamp is 2015-10-14 13:16:28.159
+0    [Thread-0] INFO  Logging.EncryptionLog4JLogger  - The encryption for key.txt with algorithm ShiftUpEncryption took 3267 milliseconds. The encrypted file is located in key.txt . The time stamp is 2015-10-14 13:27:09.697
+578  [Thread-1] INFO  Logging.EncryptionLog4JLogger  - The encryption for text1.txt with algorithm ShiftUpEncryption took 5704 milliseconds. The encrypted file is located in text1.txt . The time stamp is 2015-10-14 13:27:12.115
+764  [Thread-3] INFO  Logging.EncryptionLog4JLogger  - The encryption for text3.txt with algorithm ShiftUpEncryption took 5889 milliseconds. The encrypted file is located in text3.txt . The time stamp is 2015-10-14 13:27:12.301
+953  [Thread-4] INFO  Logging.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 6077 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-14 13:27:12.49
+2720 [Thread-2] INFO  Logging.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 7846 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-14 13:27:14.257
+2721 [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 8036 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-14 13:27:14.258
