@@ -1,7 +1,9 @@
 package Encryptors;
 
+import java.io.File;
 import java.io.IOException;
 
+import XML.XMLMethods;
 import Algorithms.*;
 import ExecutionAids.*;
 import Keys.*;
@@ -54,6 +56,79 @@ public abstract class Encryptor extends StartEnd {
 	abstract <T> void operation(String filepath, Key<T> key, String keypath, 
 			String outpath, String action) throws 
 			IOException, InvalidEncryptionKeyException, Exception;
+	
+	@SuppressWarnings("unchecked")
+	public <T> Key<T> startOperation(File f, Key<T> key, String action, 
+			String keypath, StringBuilder keyfilepath, String filepath) 
+			throws Exception {
+		String keyFilePathString;
+		
+		//Check whether we only operate a single file or a whole directory.
+		checkSoloFile(key);
+				
+		//Announce that the operation has begun.
+		if (action.equals("encryption")) {
+			EncryptionStarted(f.getName());
+		}
+		else {
+			DecryptionStarted(f.getName());
+		}
+				
+		//Read/Create the key and save it if necessary.
+		if (this.soloFile) {
+			key = (Key<T>) readKey(keypath, action);
+			if (action.equals("encryption")) {
+				keyFilePathString = this.fo.createNewFileName(filepath, "key");
+				keyfilepath.delete(0, keyfilepath.length());
+				keyfilepath.append(keyFilePathString);
+				this.fo.writeIntoFile(keyfilepath.toString(), key.toString());
+			}
+		}
+				
+		EncryptionLog4JLogger.debug("The key is " + key + ".");  
+		
+		return key;
+	}
+	
+	public void endOperation(String filepath, String keypath, 
+			String outpath, String action, String text, String text_post,
+			File f) throws Exception {
+		String postfilepath;
+		File f_post;
+		
+		//Create a path to the file with the en/decryption.
+		if (outpath.equals("")) {
+			postfilepath = this.fo.createNewFileName(filepath, action);
+		}
+		else {
+			postfilepath = outpath;
+		}
+		f_post = new File(postfilepath);
+		
+		//Save the result of the en/decryption.
+		this.fo.writeIntoFile(postfilepath, text_post);
+				
+		EncryptionLog4JLogger.debug("The original text is \"" + text +
+				"\" and the text after " + action + " is " + text_post);
+				
+		//Announce that the operation is over.
+		if (action.equals("encryption")) {
+			EncryptionEnded(f.getName(), f_post.getName());
+		}
+		else {
+			DecryptionEnded(f.getName(), f_post.getName());
+		}
+				   
+		//Increment the number of files we are finished with.
+		EncryptionLogEventsArgs.incrementNumOfFilesDone();
+				
+		/* If we operate a single file, we can write the results into an XML
+		   file right away. */
+		if (this.soloFile) {
+			XMLMethods.XMLWrite(filepath, action, this, this.enc_algo,
+														keypath, postfilepath);
+		}
+	}
 	
 	//This method is used for reading/creating the keys.
 	abstract public <T> Key<T> readKey(String filepath, String action) 

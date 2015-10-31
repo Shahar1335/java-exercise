@@ -1,0 +1,78 @@
+package Encryptors;
+
+import java.io.File;
+import java.io.IOException;
+
+import Algorithms.*;
+import ExecutionAids.*;
+import Keys.*;
+import Logging.*;
+
+import com.google.inject.Inject;
+import com.google.inject.Singleton;
+
+@Singleton
+public class DoubleEncryption extends Encryptor {
+   
+	
+	public DoubleEncryption(EncryptionAlgorithm enc_algo) {
+      super(enc_algo);
+   }
+	
+   @Inject
+   public DoubleEncryption(EncryptionAlgorithm enc_algo, FileOperations fo) {
+      super(enc_algo, fo);
+   }
+   
+   @SuppressWarnings("unchecked")
+   public <T> void operation(String filepath, Key<T> key, String keypath, 
+			String outpath, String action) throws Exception {
+	   //This is used in case we need to save a new key.
+	   StringBuilder keyfilepath = new StringBuilder("");
+	   
+	   String text; //This is where the original text is stored.
+	   String text_post; //This is the text after the en/decryption.
+	   File f = new File(filepath); //This will be used to get the file's name.
+		  
+	   key = startOperation(f, key, action, keypath, keyfilepath, filepath); 
+	   
+	   //Read the text from the file and en/decrypt it with the two keys. 
+	   text = this.fo.readTextFromFile(filepath);
+	   text_post = this.enc_algo.enc_dec_alg(text, key, action);
+	      
+	   endOperation(filepath, keypath, outpath, action, text, text_post, f);
+   }
+   
+   @SuppressWarnings("unchecked")
+   public KeyDouble readKey(String keypath, String action) 
+	         throws IOException, InvalidEncryptionKeyException {
+	      //Read two keys and store them in an array.
+	      String [] keys = this.fo.readKeys(keypath, 2, action, this);
+	      String fat_msg;
+	      int [] keys_nums = new int[2]; //This will be used to store the keys.
+	      
+	      /* Try to parse the keys into numbers. If a key is invalid, throw
+	         an exception. */
+	      
+	      try {
+	         keys_nums[0] = Integer.parseInt(keys[0]);
+	         keys_nums[1] = Integer.parseInt(keys[1]);
+	         return new KeyDouble(keys_nums[0], keys_nums[1]);
+	      }
+	      
+	      catch (Exception nfe) {
+	    	 fat_msg = "The file has (an) invalid key/s.";
+	         throw new InvalidEncryptionKeyException(fat_msg, "fatal");
+	      }
+	      
+   }
+   
+   public FileOperations getFO() {
+      return this.fo;
+   }
+   
+   public String toString() {
+	  return "DoubleEncryption";
+   }
+
+}

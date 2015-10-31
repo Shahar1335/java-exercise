@@ -1,0 +1,166 @@
+package ExecutionAids;
+
+import java.io.*;
+import java.lang.reflect.Method;
+
+import Encryptors.*;
+
+import com.google.inject.Singleton;
+
+@Singleton
+public class FileOperations {
+
+	public String readTextFromFile(String filepath) throws IOException {
+		FileReader fr = new FileReader(filepath);
+		BufferedReader textReader = new BufferedReader(fr);
+		
+		String newLine;
+		String text = textReader.readLine();
+		
+		//Read from the file line by line.
+		while ((newLine = textReader.readLine()) != null) {
+			text += System.getProperty("line.separator");
+			text += newLine;
+		}
+		
+		textReader.close();
+		
+		return text;
+	}
+	
+	public String [] readKeys(String keypath, int num_keys, 
+								String action, Encryptor encryptor) 
+			throws IOException, InvalidEncryptionKeyException {
+		//These will be used for reading from the file.
+		FileReader fr; 
+		BufferedReader keyReader;
+		String newLine;
+		
+		String [] keys = new String[num_keys]; //Here we store the key/s.
+		String fat_msg;
+		int i = 0;
+		
+		//For encryption, create the appropriate amount of keys.
+		if (action.equals("encryption")) {
+			for (int j = 0; j < keys.length; j++) {
+				keys[j] = Integer.toString(HashMethods(encryptor)/*(int)(Math.random() * 256)*/);
+			}
+		}
+		
+		else {
+			fr = new FileReader(keypath);
+			keyReader = new BufferedReader(fr);
+			
+			//Read all of the keys in the file (separated by newline).
+			try {
+				while ((newLine = keyReader.readLine()) != null) {
+					keys[i] = newLine;
+					i++;
+				}
+			}
+			
+			//If there are too many keys, throw an exception.
+			catch (ArrayIndexOutOfBoundsException e) {
+				fat_msg = "The file doesn't contain the right amount of keys.";
+				throw new InvalidEncryptionKeyException(fat_msg, "fatal");
+			}
+			
+			finally {
+				keyReader.close();
+			}
+		}
+		
+		return keys;
+	}
+	
+	//Compute a key using the encryptor's methods' names.
+	public int HashMethods(Encryptor encryptor) {
+		Method[] methods = encryptor.getClass().getMethods();
+		int key = 0;
+		
+		for (int i = 0; i < methods.length; i++) {
+			key += Math.abs(methods[i].getName().length());
+		}
+		
+		key = key / 5;
+		
+		return key;
+	}
+	
+	public void writeIntoFile(String filepath, String text) 
+			                                            throws IOException {
+		File file = new File(filepath);
+		
+		//If the file doesn't exist, create it.
+		if (!file.exists()) {
+			file.createNewFile();
+		}
+		
+		FileWriter fw = new FileWriter(file.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+		bw.write(text); //Write the text into the file.
+		bw.close();
+	}
+	
+	public boolean is_txt(String filepath) {
+		File f = new File(filepath);
+		String filename = f.getName();
+		int i = 0;
+		
+		while (filename.charAt(i) != '.') { //Reach the dot in the file's name.
+			i++;
+		}
+		
+		//Check whether the ending of the file is .txt or not.
+		return filename.substring(i+1, filename.length()).equals("txt");
+	}
+	
+	public String createNewFileName(String filepath, String filetype) {
+		File f = new File(filepath);
+		String filename = f.getName();
+		String filepath_noname;
+		
+		String new_filepath;
+		
+		int i = 0;
+		String filenameprefix; //The name itself.
+		String filenamesuffix; //The type of the file.
+		String action; //Whether we encrypted or decrypted the text.
+		
+		//Get the path to the file without the name of the file itself.
+		try {
+		    filepath_noname = filepath.split(filename)[0];
+		}
+		catch (ArrayIndexOutOfBoundsException e) {
+			filepath_noname = "";
+		}
+		
+		if (filetype.equals("key")) {
+			new_filepath = filepath_noname + "key.txt";
+		}
+		
+		else {
+			while (filename.charAt(i) != '.') { //Get to the dot in the file's name.
+				i++;
+			}
+			//Separate the file and its type.
+			filenameprefix = filename.substring(0, i);
+			filenamesuffix = filename.substring(i+1, filename.length());
+			
+			//Extend the file's name according to the action we took.
+			if (filetype.equals("decryption")) {
+				action = "_decrypted";
+			}
+			else {
+				action = "_encrypted";
+			}
+			
+			//Create the new filename, and add it to the path.
+			filenameprefix += action;
+			new_filepath = filepath_noname + filenameprefix + "." + filenamesuffix;
+		}
+		
+		return new_filepath;
+	}
+	
+}

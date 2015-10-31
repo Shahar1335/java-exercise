@@ -1164,3 +1164,42 @@ encryptor1.InvalidEncryptionKeyException: The file doesn't contain the right amo
 953  [Thread-4] INFO  Logging.EncryptionLog4JLogger  - The encryption for text4.txt with algorithm ShiftUpEncryption took 6077 milliseconds. The encrypted file is located in text4.txt . The time stamp is 2015-10-14 13:27:12.49
 2720 [Thread-2] INFO  Logging.EncryptionLog4JLogger  - The encryption for text2.txt with algorithm ShiftUpEncryption took 7846 milliseconds. The encrypted file is located in text2.txt . The time stamp is 2015-10-14 13:27:14.257
 2721 [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for C:\Users\user\Desktop with algorithm ShiftUpEncryption took 8036 milliseconds. The encrypted file is located in C:\Users\user\Desktop\encrypted . The time stamp is 2015-10-14 13:27:14.258
+0    [main] FATAL Logging.EncryptionLog4JLogger  - The paths that were passed are not valid.
+The time stamp is 2015-10-30 09:48:15.307
+The host name is user-PC
+The thread ID is 1
+The process ID is 5508
+java.io.FileNotFoundException: C:\Users\user\Desktop (Access is denied)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileReader.<init>(Unknown Source)
+	at ExecutionAids.FileOperations.readTextFromFile(FileOperations.java:14)
+	at Encryptors.RepeatEncryption.operation(RepeatEncryption.java:76)
+	at Encryptors.Encryptor.encryption(Encryptor.java:44)
+	at encryptor1.UserControl.XML(UserControl.java:122)
+	at encryptor1.UserControl.main(UserControl.java:22)
+0    [main] FATAL Logging.EncryptionLog4JLogger  - The paths that were passed are not valid.
+The time stamp is 2015-10-30 09:48:33.446
+The host name is user-PC
+The thread ID is 1
+The process ID is 2576
+java.io.FileNotFoundException: C:\Users\user\Desktop (Access is denied)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileReader.<init>(Unknown Source)
+	at ExecutionAids.FileOperations.readTextFromFile(FileOperations.java:14)
+	at Encryptors.RepeatEncryption.operation(RepeatEncryption.java:76)
+	at Encryptors.Encryptor.encryption(Encryptor.java:44)
+	at encryptor1.UserControl.XML(UserControl.java:122)
+	at encryptor1.UserControl.main(UserControl.java:22)
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 46 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-30 09:48:57.233
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 149 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-30 09:49:31.761
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 63 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-30 09:50:12.564
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 118 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:18:14.905
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 104 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:19:36.92
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 49 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:20:08.457
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 98 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:20:32.935
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:20:58.671
+0    [main] INFO  Logging.EncryptionLog4JLogger  - The encryption for text.txt with algorithm ShiftUpEncryption took 50 milliseconds. The encrypted file is located in text_encrypted.txt . The time stamp is 2015-10-31 11:22:01.39

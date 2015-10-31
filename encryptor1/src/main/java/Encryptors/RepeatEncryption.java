@@ -6,8 +6,6 @@ import java.io.IOException;
 import Algorithms.*;
 import ExecutionAids.*;
 import Keys.*;
-import Logging.*;
-import XML.*;
 
 import com.google.inject.Inject;
 import com.google.inject.Singleton;
@@ -39,80 +37,27 @@ public class RepeatEncryption extends Encryptor {
 		this.n = n;
 	}
 	
-	@SuppressWarnings("unchecked")
 	public <T> void operation(String filepath, Key<T> key, String keypath, 
 			String outpath, String action) throws Exception {
-		String keyfilepath = ""; //This is where the path to the key is stored.
-		String postfilepath; //This is where the path to the new file is stored.
+		//This is used in case we need to save a new key.
+		StringBuilder keyfilepath = new StringBuilder("");
+		
 		String text; //This is where the text is stored before each en/decryption.
 		String text_post; //This is where the en/decrypted text is stored.
-		String text_original; //This is where the original text is stored.
 		File f = new File(filepath); //We will use this to get the file's name.
-		File f_post; //We will use this to get the en/decrypted file's name.
 		
-		//Check whether we only operate a single file or a whole directory.
-		checkSoloFile(key);
-		
-		//Announce that the operation has begun.
-		if (action.equals("encryption")) {
-			EncryptionStarted(f.getName());
-		}
-		else {
-			DecryptionStarted(f.getName());
-		}
-		
-		//Read the key from the file that contains it.
-		if (key == null) {
-			key = (Key<T>) readKey(keypath, action);
-		}
-		
-		//If we encrypt a single file, save the key.
-		if (this.soloFile && action.equals("encryption")) {
-			keyfilepath = this.fo.createNewFileName(filepath, "key");
-			this.fo.writeIntoFile(keyfilepath, key.toString());
-		}
+		key = startOperation(f, key, action, keypath, keyfilepath, filepath);
 		
 		//Read the text from the file and create a path for the en/decryption.
 		text = this.fo.readTextFromFile(filepath);
-		text_original = text;
 		text_post = text;
-		if (outpath.equals("")) {
-			postfilepath = this.fo.createNewFileName(filepath, action);
-		}
-		else {
-			postfilepath = outpath;
-		}
-		f_post = new File(postfilepath);
 		
 		for (int i = 0; i < this.n; i++) { //En/decrypt n times.
 			//En/decrypt the text.
 			text_post = this.enc_algo.enc_dec_alg(text_post, key, action);
-
-		//Save the result of the en/decryption. Then load them again.
-		this.fo.writeIntoFile(postfilepath, text_post);
-		text = this.fo.readTextFromFile(postfilepath);
 		}
 		
-		EncryptionLog4JLogger.debug("The original text is \"" + text_original +
-				"\" and the text after " + action + " is " + text_post);
-		
-		//Announce that the operation is over.
-		if (action.equals("encryption")) {
-			EncryptionEnded(f.getName(), f_post.getName());
-		}
-		else {
-			DecryptionEnded(f.getName(), f_post.getName());
-		}
-		   
-		//Increment the number of files we are finished with.
-		EncryptionLogEventsArgs.incrementNumOfFilesDone();
-		
-		/* If we operate a single file, we can write the results into an XML
-	      file right away. */
-		if (this.soloFile) {
-			XMLMethods.XMLWrite(filepath, action, this, this.enc_algo,
-														keypath, postfilepath);
-		}
+		endOperation(filepath, keypath, outpath, action, text, text_post, f);
 	}
 	
 	@SuppressWarnings("unchecked")
